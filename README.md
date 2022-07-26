@@ -1,1 +1,3 @@
-This repository contains projects on supervised learning from Regression to classification.
+## SUPERVISED LEARNING
+
+This main objective of the repository is to provide solutions to supervised learning projects, algorithms and srticles from Regression to classification.
