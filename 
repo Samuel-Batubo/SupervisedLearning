@@ -1,0 +1,53 @@
+[33mcommit 28f1b07391c2dadfe337cb01e7a3d22e21cfb037[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Samuel Batubo <samuel.batubo97@gmail.com>
+Date:   Mon Aug 15 03:54:24 2022 +0100
+
+    Housing_value_data
+
+[33mcommit 82a2cbe46e9108161ce77ce6f4b113d489f8904b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Samuel Batubo <samuel.batubo97@gmail.com>
+Date:   Wed Jul 27 15:12:47 2022 +0100
+
+    House Price Prediction Dataset Added
+
+[33mcommit 171268618e2dac5e4b65f285f7bb9185f00e40c0[m
+Author: Batubo Samuel <73485221+Samuel-Batubo@users.noreply.github.com>
+Date:   Tue Jul 26 18:53:17 2022 +0100
+
+    Update README.md
+
+[33mcommit 206e5c7ea45c195d216cc3b189554fdb42a5fc32[m
+Author: Batubo Samuel <73485221+Samuel-Batubo@users.noreply.github.com>
+Date:   Tue Jul 26 18:51:17 2022 +0100
+
+    Update README.md
+
+[33mcommit 8e14298f16837281c12a20af4708b5a3612a6b19[m
+Author: Batubo Samuel <73485221+Samuel-Batubo@users.noreply.github.com>
+Date:   Tue Jul 26 18:24:36 2022 +0100
+
+    Create pull_request_template.md
+
+[33mcommit 06d9456e308141a2e6e2b126a3dc7ee5bf7f286c[m
+Author: Batubo Samuel <73485221+Samuel-Batubo@users.noreply.github.com>
+Date:   Tue Jul 26 18:21:19 2022 +0100
+
+    Update CODEOWNERS
+
+[33mcommit 69cc3581bb6b189753b5f07afcfbefdb7a672d37[m
+Author: Batubo Samuel <73485221+Samuel-Batubo@users.noreply.github.com>
+Date:   Tue Jul 26 18:20:36 2022 +0100
+
+    Create CODEOWNERS
+
+[33mcommit fd36c948e17ebf0e5d146f3723fdc14fe71f31b5[m
+Author: Samuel Batubo <samuel.batubo97@gmail.com>
+Date:   Tue Jul 26 18:18:39 2022 +0100
+
+    Create README File
+
+[33mcommit 6e56dbbc508bcdb86c576a35b806d3637dc71c4b[m
+Author: Batubo Samuel <73485221+Samuel-Batubo@users.noreply.github.com>
+Date:   Tue Jul 26 17:51:47 2022 +0100
+
+    Initial commit
